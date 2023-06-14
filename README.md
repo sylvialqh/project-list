@@ -1,5 +1,5 @@
 # project-list
-This is an introduction to the project I have done so far.
+This is an introduction to the featured projects I have done so far.
 
 
 ## 1. Travelplanner
@@ -69,47 +69,3 @@ Aims to investigate factors that affected the implementation of the global COVID
 - SQL queries.
 - Technical report writing and presentation skills.
 
-## 4. Self-learning site for students
-### Overview
-A system teaches university students (target user) the basis of web development.
-### Features
-- Login 
-- Register 
-- Mockup courses/modules for online learning
-- Admin role - add, delete and mute users(prevent users from messaging others)
-- User role - message other users 
-- Discussion forum - users and/or admin to message each other.
-#### Demo
-![Home_page](Screenshots/course-webdev.png)
-![forum_page](Screenshots/forum-webdev.png)
-### Tools & Languages & Skills
-- Prototyping (Figma)
-- Persona and Card-Sorting (Uxpressia, UXtweak)
-- Python (Bottle framework)
-- MongoDB
-- RESTful API
-- User research
-- Usability testing (Think-aloud, focus group, online surveys)
-- Accessibility testing (Lighthouse)
-
-## 5. Vending Machine (Class project - SOFT2412)
-### Overview
-Lite Snacks manage vending machines which sell different types of snacks.
-### Features
-- Different roles of users: Admin, Cashier, Seller, Customer
-- Shopping cart
-- Products refill
-- Payment handler
-- User management
-#### Demo
-![home](Screenshots/VM/home.png)
-![admin](Screenshots/VM/admin.png)
-### Scope
-The snacks are maintained under four different categories: drinks, chocolates, chips, and lollies. Each category will have different items/products. The vending machine can maintain up to 15 items of each product.
-### Tools & Languages & Skills
-- JAVAFX and SceneBuilder
-- PostgreSQL
-- RESTful API
-- Gradle
-- Junit, Jacoco
-- Agile practice (Role of Scrum Master)
