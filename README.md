@@ -1,6 +1,5 @@
 # project-list
-This is an introduction to the featured projects I have done so far.
-
+My featured web dev projects.
 
 ## 1. Travelplanner
 ### Overview
@@ -49,26 +48,4 @@ A landing page for user assessing a clean energy product, and signing up to the 
 - Competitive Analysis
 - Presentation skills
 - Leadership
-
-## 3. Analysis of vaccination program (Capstone)
-> **Link to Shiny app:** https://dcusyd.shinyapps.io/covidApp/
-> 
-> FYI. It takes 1-2 minutes to load the page.
-### Overview
-Aims to investigate factors that affected the implementation of the global COVID-19 vaccination rollout
-### Features
-- Analysis of the time lag between the 1st and 2nd vaccine dose
-- Implementation an innovative index - **VRI**: Vaccine Roll-Out Index (covering speed and coverage of vaccine uptake)
-- Estimates of VRI done by Logistic and Asymptotic Regression Model
-- Measure importance of socio-economic, demographics, health factors by Random forest (Ranked by Conditional Permutation Importance)
-#### Demo
-![dashboard](Screenshots/data.png)
-### Tools & Languages & Skills
-- R & Python
-- Excel
-- Machine Learning
-- Shiny App
-- Solid troubleshooting skills
-- SQL queries.
-- Technical report writing and presentation skills.
 
