@@ -1,15 +1,15 @@
 # project-list
 My featured projects.
-* [Web Development Projects](web-development-projects)
-  * [A one-stop booking platform](travelplanner)
-  * [A landing page for a clean energy company](powertracer)
-* [Data Projects](data-projects)
-  * [PwC US Cyber Security Consulting Virtual Job Simulation](pwc-us-cyber-security-consulting-virtual-job-simulation)
-  * [KPMG AU Data Analytics Virtual Job Simulation](kpmg-au-data-analytics-virtual-job-simulation)
-  * [Analysis of vaccination program (Capstone)](analysis-of-vaccination-program)
+* [Web Development Projects](#web-development-projects)
+  * [A one-stop booking platform](#travelplanner)
+  * [A landing page for a clean energy company](#powertracer)
+* [Data Projects](#data-projects)
+  * [PwC US Cyber Security Consulting Virtual Job Simulation](#pwc-us-cyber-security-consulting-job-simulation-on-forage)
+  * [KPMG AU Data Analytics Virtual Job Simulation](#kpmg-au-data-analytics-job-simulation-on-forage)
+  * [Analysis of vaccination program (Capstone)](#analysis-of-vaccination-program)
 
 ## Web Development Projects
-### 1. Travelplanner
+### Travelplanner
 #### Overview
 A usable one-stop booking platform for customised travel plans.
 #### Features
@@ -37,7 +37,7 @@ The locations that users can choose are currently limited in three Australian ci
 ##### Link
 https://github.com/sylvialqh/Travel-planner.git
 
-### 2. PowerTracer
+### PowerTracer
 #### Overview
 A landing page for a clean energy company (Enosi) where users can sign up for their energy tracking and trading platform - Powertracer service. 
 #### Features
@@ -58,7 +58,9 @@ A landing page for a clean energy company (Enosi) where users can sign up for th
 - Leadership
 
 ## Data Projects
-### 1. PwC US Cyber Security Consulting Job Simulation on Forage - March 2024
+### PWC US Cyber Security Consulting Job Simulation on Forage
+March 2024
+
 #### Overview
 Conducted IT risk assessments and proposed control solutions for a MedTech Industries's IPO preparation.
 (MedTech Industries is a non-profit startup.)
@@ -91,7 +93,8 @@ Document the Test of Design and Operating Effectiveness for change management co
 - Test of Design and Operating Effectiveness documentation
 
 
-### 2. KPMG AU Data Analytics Job Simulation on Forage - March 2024
+### KPMG AU Data Analytics Job Simulation on Forage
+March 2024
 #### Overview
 Focused on advising Sprocket Central Pty Ltd, an organization that specializes in high quality bikes and cycling accessories sales, on customer targeting by analysing its customer and transactions data.
 
@@ -125,7 +128,8 @@ Develop a dashboard to present key findings of analysis to the client at the nex
 - RFM Analysis
 - Tableau
 
-### 3. Analysis of vaccination program - May 2022
+### Analysis of vaccination program
+May 2022
 > **Link to Shiny app:** https://dcusyd.shinyapps.io/covidApp/
 > 
 > FYI. It takes 1-2 minutes to load the page.
