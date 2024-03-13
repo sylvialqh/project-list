@@ -1,4 +1,4 @@
-# project-list
+# web-dev-projects
 My featured web dev projects.
 
 ## 1. Travelplanner
